@@ -18,7 +18,7 @@ function LoginPage() {
       </div>
       <h1>Game Recommend GPT</h1>
       <p className="read-the-docs">
-        This service will recommend you a game based on your preferences.
+        This service will recommend you a game basedD on your preferences.
         <br></br>Feel free to explore and find your next favorite game!
       </p>
       <div className="card">
